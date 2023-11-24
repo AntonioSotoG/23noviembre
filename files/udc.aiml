@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*ENTRADAS</pattern>
+    <template>
+        <srai>ENTRADAS</srai>
+        </template>
+  </category>
+</aiml>
